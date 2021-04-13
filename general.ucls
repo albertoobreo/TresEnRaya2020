@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="control.Controlador" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/control/Controlador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="672" y="173"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="control.ParaUI" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/control/ParaUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="877" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="vista.UI" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/vista/UI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1126" y="84"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="control.Principal" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/control/Principal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="87" x="842" y="387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="modelo.GestionDatos" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/modelo/GestionDatos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="100" x="394" y="141"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="modelo.Coordenada" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/modelo/Coordenada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="93" x="105" y="55"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="modelo.Juego" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/modelo/Juego.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="87" x="101" y="149"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="modelo.Tablero" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/modelo/Tablero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="87" x="116" y="291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <enumeration id="9" language="java" name="modelo.Tipo" project="046-Tres-N-Raya-Desde-Cero-alberto" 
+    file="/046-Tres-N-Raya-Desde-Cero-alberto/src/modelo/Tipo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="166" y="480"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </enumeration>  
+  <association id="10">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="11" name="antigua"/>      
+      <multiplicity id="12" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="13">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="14" name="gestion"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="17">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="18" name="matriz"/>      
+      <multiplicity id="19" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="21" name="tablero"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="24" name="control"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="27" name="juego"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
